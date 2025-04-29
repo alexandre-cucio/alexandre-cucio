@@ -48,7 +48,7 @@
 
 --- -->
 
-## 🧪 Featured Project
+## 🚧 Featured Project
 
 ### 📚 [Livraria API](https://github.com/alexandre-cucio/livrariaonline)
 A RESTful API for managing a bookstore system, developed using Java 17 and Spring Boot. Includes entity modeling for books, authors, users, and orders. Built with in-memory H2 database and follows clean architectural principles.
