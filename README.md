@@ -1,10 +1,3 @@
-<h1 align="center"> Alexandre Magalhães Cucio </h1>
-
-<p align="center">
-  <p align="center">
-  Backend Developer | Java & Spring Boot
-</p>
-
 ## About Me
 
 - 🎓 Associate Degree in Systems Analysis and Development (Jun 2024)
