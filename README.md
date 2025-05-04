@@ -1,13 +1,11 @@
-<h1 align="center">Hi there, I'm Alexandre Magalhães Cucio 👋</h1>
+<h1 align="center"> Alexandre Magalhães Cucio </h1>
 
 <p align="center">
   <p align="center">
-  Backend Developer | Java & Spring Boot | Focused on backend excellence with Spring Boot
+  Backend Developer | Java & Spring Boot
 </p>
 
----
-
-## 🚀 About Me
+## About Me
 
 - 🎓 Associate Degree in Systems Analysis and Development (Jun 2024)
 - 💼 Actively seeking new opportunities in Java/Spring development — eager to contribute and grow with a solid engineering team
@@ -17,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 Languages & Markup
+### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -25,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23007FFF.svg?style=for-the-badge&logo=jakartaee&logoColor=white)
@@ -34,7 +32,7 @@
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-%230074A8.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### 🛠️ Dev Tools & Platforms
+### Dev Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -43,14 +41,16 @@
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-%23E40046.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📐 Practices & Architecture
+### Practices & Architecture
 ![RESTful](https://img.shields.io/badge/RESTful%20APIs-%23007396.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC%20Architecture-%231572B6.svg?style=for-the-badge&logo=codefactor&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23FF8300.svg?style=for-the-badge&logo=abstract&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum%2FKanban-%2300A99D.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-%2300B4D8.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
-<!-- ---
+---
+
+<!--
 
 ## 📈 GitHub Stats
 
@@ -61,7 +61,7 @@
 
 --- -->
 
-## 🧪 Featured Project
+## Featured Project
 
 ### 📚 [Livraria API](https://github.com/alexandre-cucio/livrariaonline)
 A RESTful API for managing a bookstore system, developed using Java 17 and Spring Boot. Includes entity modeling for books, authors, users, and orders. Built with in-memory H2 database and follows clean architectural principles.
@@ -79,9 +79,8 @@ A RESTful API for managing a bookstore system, developed using Java 17 and Sprin
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [alex.m.cucio@gmail.com](mailto:alex.m.cucio@gmail.com)  
-- 💼 LinkedIn: [Alexandre Cucio](https://linkedin.com/in/alexandre-cucio)  
-- 💻 GitHub: [alexandre-Cucio](https://github.com/alexandre-cucio)
+- Email: [alex.m.cucio@gmail.com](mailto:alex.m.cucio@gmail.com)  
+- LinkedIn: [alexandre-cucio](https://linkedin.com/in/alexandre-cucio)  
 
 ---
 
