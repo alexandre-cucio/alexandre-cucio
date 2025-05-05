@@ -34,13 +34,6 @@
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-%23E40046.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### Practices & Architecture
-![RESTful](https://img.shields.io/badge/RESTful%20APIs-%23007396.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-%231572B6.svg?style=for-the-badge&logo=codefactor&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23FF8300.svg?style=for-the-badge&logo=abstract&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum%2FKanban-%2300A99D.svg?style=for-the-badge&logo=agile&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-%2300B4D8.svg?style=for-the-badge&logo=codecov&logoColor=white)
-
 ---
 
 <!--
