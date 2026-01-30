@@ -3,8 +3,6 @@
 - Passionate about game-dev
 - Mostly code back-end stuff
 - Associate Degree in Systems Analysis and Development (Jun 2024)
-- Currently working at gogenier.ai as a Senior Support Analyst
-
 ---
 
 ### Tech Stack
